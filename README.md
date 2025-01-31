@@ -62,8 +62,3 @@ If you encounter any issues:
 ## License
 
 This tool is open-source and free to use.
-
-
-
-
-
